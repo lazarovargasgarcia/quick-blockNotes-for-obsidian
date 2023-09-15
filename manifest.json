@@ -1,0 +1,11 @@
+{
+	"id": "quick-notesBlocks",
+	"name": "Quick notes blocks",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin detects when you write '--keyword ' and replaces it for '>[!KEYWORD]' to render it like a note block",
+	"author": "Lázaro Vargas García",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
