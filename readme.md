@@ -3,7 +3,7 @@
 ## Description/Descripción
 
 - (**EN**) This plugin is very simple, when you type --*keyword* *some text*, it replaces it for `>[!keyword] some text`, making it easier and faster to write automatic rendering notes.
-- (**ES**) Este plugin es muy sencillo. Cuando escribes --*palabra clave* *texto*, lo reemplaza por `>[!palabra clave] algo de texto`, lo que facilita y agiliza la escritura de notas con renderizado automático.
+- (**ES**) Este plugin es muy sencillo. Cuando escribes --*palabra-clave* *texto*, lo reemplaza por `>[!palabra-clave] texto`, lo que facilita y agiliza la escritura de notas con renderizado automático.
 
 ## Intstallation/Instalación
 
